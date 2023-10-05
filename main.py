@@ -130,7 +130,7 @@ class MainProgram:
     def run():
         Constant.ConsoleInteraction.print_only("Welcome is vertofication Page")
         Constant.EmailInteraction.static_constructor(
-            "ahmedkamal200427@gmail.com", "dagq bfte sfgp gmjk"
+            "ahmedkamal200427@gmail.com", "HERE ENTER YOUR PASSWORD"
         )  ## One time password
         while True:
             choice = int(
